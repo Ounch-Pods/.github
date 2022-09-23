@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This organisation is set up for hosting MMIS 3.0 repositories and teams collaboration. 
+This organisation is set up for hosting Ounch PODS repositories and teams collaboration. 
 
 <!--
 
